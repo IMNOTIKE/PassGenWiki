@@ -247,7 +247,7 @@ article#secondary nav ul li a{
     border-top: #008080 5px solid;
 }
 footer{
-    padding: 5px;
+    
     width: 100%;
     margin-top: 5px;
     color: #ffffff;
@@ -258,7 +258,7 @@ footer{
 #footervar{
     position: fixed;
     bottom: 0;
-    padding: 5px;
+    
     width: 100%;
     margin-top: 5px;
     color: #ffffff;
