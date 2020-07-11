@@ -256,6 +256,9 @@ footer{
     margin-top: 10px;
 }
 #footervar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
     padding: 10px;
     padding-left: 10px;
     width: 100%;
