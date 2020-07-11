@@ -257,8 +257,6 @@ footer{
     margin-top: auto;
 }
 #footervar{
-    position: fixed;
-    bottom: 0;
     padding: 10px;
     padding-left: 10px;
     width: 100%;
