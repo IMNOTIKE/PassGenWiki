@@ -250,21 +250,19 @@ footer{
     padding: 10px;
     padding-left: 10px;
     width: 100%;
-    margin-top: 5px;
     color: #ffffff;
     background-color: #35424a;
     text-align: left;
-    margin-top: auto;
+    margin-top: 10px;
 }
 #footervar{
     padding: 10px;
     padding-left: 10px;
     width: 100%;
-    margin-top: 5px;
     color: #ffffff;
     background-color: #35424a;
     text-align: left;
-    margin-top: auto;
+    margin-top: 10px;
 }
 @media(max-width: 768px){
     header #branding,
