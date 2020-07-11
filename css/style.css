@@ -179,7 +179,7 @@ header a:hover{
     width: 100px;
 }
 #boxes .box a{
-    color: black;
+    color: #000000;
     font-style: bold;
 }
 aside#sidebar .quote input, aside#sidebar .quote textarea{
