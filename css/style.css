@@ -272,6 +272,15 @@ footer{
     text-align: left;
     margin-top: 10px;
 }
+#footervar1{
+    padding: 10px;
+    padding-left: 10px;
+    width: 100%;
+    color: #ffffff;
+    background-color: #35424a;
+    text-align: left;
+    margin-top: 10px;
+}
 @media(max-width: 768px){
     header #branding,
     header nav,
